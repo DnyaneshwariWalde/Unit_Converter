@@ -21,7 +21,7 @@ You can see a live preview of the Unit Converter application by visiting [here](
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your_username/unit-converter-app.git
+   git clone https://github.com/DnyaneshwariWalde/Unit_Converter.git
    
    ```
 
